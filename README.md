@@ -17,6 +17,12 @@ This project explores 3 years of public bike rental data in Washington DC using 
 - `03_ML_Modeling_RF_XGB.ipynb`: Feature selection, RF vs. XGBoost
 - `04_Polynomial_Regression.ipynb`: Curve fitting on ride prediction
 
+- ## 📈 Sample Visualization
+
+![Yearly Ride Quality Trends](images/Ride_Quality_Yearly_Trend.png)
+
+This figure compares the proportion of clean vs. problematic rides from 2021 to 2023. It highlights an increasing trend in ride issues.
+
 ## Tools & Libraries
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Jupyter Notebook
