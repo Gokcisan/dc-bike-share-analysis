@@ -1,4 +1,4 @@
-# DC Bike Share Data Analysis
+# Washington DC Bike Share Data Analysis
 
 This project explores 3 years of public bike rental data in Washington DC using Python. It includes exploratory data analysis, time series visualization, and machine learning modeling to predict ride counts.
 
